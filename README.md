@@ -1,0 +1,1 @@
+# python-beget-generated-client
