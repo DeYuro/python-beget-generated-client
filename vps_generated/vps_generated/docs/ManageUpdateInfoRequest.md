@@ -1,0 +1,15 @@
+# ManageUpdateInfoRequest
+
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **str** | Идентификатор Vps (uuid) | [optional] 
+**display_name** | **str** | Отображаемое имя Vps | [optional] 
+**hostname** | **str** | Имя хоста (в ОС) | [optional] 
+**description** | **str** | Дескрипшн | [optional] 
+**any string name** | **bool, date, datetime, dict, float, int, list, str, none_type** | any string name can be used but the value must be the correct type | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
