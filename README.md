@@ -12,7 +12,7 @@ https://github.com/LTD-Beget/vps
 >
 > composer update
 > 
-> python3 -l "beget_login" -p "beget_password"
+> python3 main.py -l "beget_login" -p "beget_password"
 
 
 Тестовый клиент выполняет следующие действия
