@@ -9,8 +9,6 @@ https://github.com/LTD-Beget/vps
 
 ## HOW TO USE
 > scripts/generate-clients.sh
->
-> composer update
 > 
 > python3 main.py -l "beget_login" -p "beget_password"
 
